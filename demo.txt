@@ -1,2 +1,4 @@
 This is demo file.
-These are changes made.
+These are the changes made in master branch.
+This is demo file in feature.
+These are the changes made in feature branch.
